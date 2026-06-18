@@ -1,0 +1,34 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build outputs
+[Bb]in/
+[Oo]bj/
+[Log]s/
+
+## Mono/MS Build Auto Generated
+*.meta
+
+## ReSharper and other IDEs
+_ReSharper*/
+*.resharper
+*.userprefs
+.idea/
+.vscode/
+
+## Windows Image files
+Thumbs.db
+ehthumbs.db
+
+## Folder config file
+Desktop.ini
+
+## Crash dumps
+*.dmp
+*.dump
+
+docs/
